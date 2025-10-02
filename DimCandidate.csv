@@ -1,0 +1,6 @@
+CandidateKey,CandidateCategory,Candidate for Currency,Candidate to Move to NY3
+0.0,Currency=Unknown|MoveNY3=Unknown,Unknown,Unknown
+1.2544075227703923e+19,Currency=Yes|MoveNY3=Yes,Yes,Yes
+8.417055727777906e+17,Currency=No|MoveNY3=Yes,No,Yes
+4.3207236582459433e+18,Currency=No|MoveNY3=No,No,No
+1.3532767226202687e+19,Currency=Yes|MoveNY3=No,Yes,No

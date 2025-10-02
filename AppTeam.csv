@@ -1,0 +1,13 @@
+﻿Application Code,Architectural Design (former - APB),Business Owner,Business Unit,Other Artifacts,Prime,TAO + 1 Level,TAO + 2 Level,Technology Asset Owner,Technology Asset Owner Delegate,Working Team
+EFX,,Alex Donohue,Global FX,,Govind,Friederika Stoeckler,Dan Bosman,Rich Miani,Anthony Francis,"Rich Miani, Yang Peng, Robert Celar"
+EFXNG,,Jenna Young,Electronic Trading,,Govind,Friederika Stoeckler,Dan Bosman,Rich Miani,Brian Cummins,"Rich Miani, Yang Peng, Robert Celar"
+GRP,,Kenneth Silliman,Global Fixed Income,,,Steve Pass,Tim James,Matthew Amann,Gunasekaran Velmurugan,
+HDLDS,,Matthew Schrager,Global Fixed Income,,,Mark Szpakowski,Meghan Faughan,Darryl Buckradiee,Michael Cameron,
+INFNY,,Michael Murphy,Global Fixed Income,,Govind,Jason Sooley,Dan Bosman,Millie Tan,Zack Schomberg,Millie Tan
+KDB,,Alex Donohue,Global FX,,Govind,Mark Porter,Dan Bosman,Neil Rajgor,Anthony Francis,"Yang Peng, Pawel Kruzynski, Noel McCullagh"
+MCSDS,,Mark Porter,Electronic Trading,,Govind,Mark Porter,Dan Bosman,Govind Krishnaswamy,Yashar Aslanov,Yashar Aslanov
+NYION,,Curt Sang,Electronic Trading,,Govind,Mark Porter,Dan Bosman,David Shaw,Anthony Francis,Peng Hu
+OPTI,,Ryan Fennelly,Global Fixed Income,,Govind,Mark Porter,Dan Bosman,David Shaw,Anthony Francis,Peng Hu
+TRNPY,,Gregory Debienne,Global Fixed Income,,Claus,Tim James,Dan Bosman,Cheng Zhen,Claus Choy,
+WFX,ABP: https://collaborate.td.com/download/attachments/1557476610/wfx-abp-v0.94_API_Split.docx?version=1&modificationDate=1745525838117&api=v2,Gregory Debienne,Global FX,PID: https://collaborate.td.com/download/attachments/1557476610/20230628_WFX%20Final%20-%20PID.pdf?version=1&modificationDate=1689714858013&api=v2,,Steve Pass,Tim James,Paul Pennington,Daniel Wang,
+TMSIR (ATM),https://collaborate.td.com/spaces/TDSDC/pages/2985855144/Architecture+Design+TMSIR+-+TMS+Algo+Trading+Cowen+TTS+LD4+Exit+Toronto,Robert Farmer,,,Japneet,Bobby Lee,Navdeep Brar,Japneet Gharaya,Stephen Nguyen,Bobby Lee
